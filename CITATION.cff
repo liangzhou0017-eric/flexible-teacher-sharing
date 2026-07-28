@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Flexible Teacher Sharing - Reproduction Code
+message: If you use this software, please cite the accompanying paper.
+type: software
+authors:
+  - family-names: Zhou
+    given-names: Liang
+    affiliation: Ningbo Childhood Education College
+license: MIT
+version: 1.0.0
