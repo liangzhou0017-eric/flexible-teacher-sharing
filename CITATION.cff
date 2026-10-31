@@ -6,5 +6,8 @@ authors:
   - family-names: Zhou
     given-names: Liang
     affiliation: Ningbo Childhood Education College
+    orcid: "https://orcid.org/0009-0003-6655-548X"
+repository-code: "https://github.com/liangzhou0017-eric/flexible-teacher-sharing"
 license: MIT
-version: 1.0.0
+version: 2.0.0
+date-released: "2026-10-31"
